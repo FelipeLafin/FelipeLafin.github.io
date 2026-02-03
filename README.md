@@ -293,6 +293,3 @@ requestAnimationFrame(animate);
 }
 animate();
 </script>
-
-</body>
-</html>
